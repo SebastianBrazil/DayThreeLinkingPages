@@ -1,0 +1,21 @@
+p {
+    color: brown;
+    font-size: 25px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+body {
+    background-color: sandybrown;
+}
+
+.flexMe {
+    /* text-align: center; */
+    border: 3px solid;
+    /* border-color: black; */
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+}
